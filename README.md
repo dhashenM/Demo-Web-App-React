@@ -1,2 +1,2 @@
-# Demo-Web-App-React
+This demo web application (personal project) was created to display dynamic information. It displays some of the core concepts of React, while simultaneously implementing them in the website itself. This project incorporates front-end development with regards to building user interfaces with components and handling user events, allowing me to obtain a concrete understanding of how data is used, shared, and outputted in React.
  
